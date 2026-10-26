@@ -1,0 +1,119 @@
+{
+  "layout": "de",
+  "device": null,
+  "repeat_window_ms": 200,
+  "fallback_strip_accents": true,
+  "letters": {
+    "q": null,
+    "w": null,
+    "e": null,
+    "r": null,
+    "t": null,
+    "y": null,
+    "u": null,
+    "i": null,
+    "o": null,
+    "p": null,
+    "a": null,
+    "s": null,
+    "d": null,
+    "f": null,
+    "g": null,
+    "h": null,
+    "j": null,
+    "k": null,
+    "l": null,
+    "z": null,
+    "x": null,
+    "c": null,
+    "v": null,
+    "b": null,
+    "n": null,
+    "m": null
+  },
+  "keys": {
+    "space": null,
+    "dot": null,
+    "backspace": null
+  },
+  "modifiers": {
+    "fn": "0x5378",
+    "shift": null,
+    "alt": null,
+    "symbol": null,
+    "caps": null
+  },
+  "mouse": {
+    "toggle": null,
+    "start_enabled": false,
+    "click": "0x5340",
+    "step": 6,
+    "max_step": 40,
+    "directions": {
+      "0x5344": [
+        0,
+        -1
+      ],
+      "0x535a": [
+        1,
+        -2
+      ],
+      "0x5355": [
+        1,
+        -1
+      ],
+      "0x531a": [
+        2,
+        -1
+      ],
+      "0x5352": [
+        1,
+        0
+      ],
+      "0x534e": [
+        2,
+        1
+      ],
+      "0x5356": [
+        1,
+        1
+      ],
+      "0x534b": [
+        1,
+        2
+      ],
+      "0x534c": [
+        0,
+        1
+      ],
+      "0x534a": [
+        -1,
+        2
+      ],
+      "0x5357": [
+        -1,
+        1
+      ],
+      "0x531f": [
+        -2,
+        1
+      ],
+      "0x5350": [
+        -1,
+        0
+      ],
+      "0x531d": [
+        -2,
+        -1
+      ],
+      "0x5354": [
+        -1,
+        -1
+      ],
+      "0x535b": [
+        -1,
+        -2
+      ]
+    }
+  }
+}
