@@ -1,3 +1,5 @@
+[English](README.en.md) | **Deutsch**
+
 # iomega-keyd – Iomega ScreenPlay Fernbedienung unter CoreELEC/Kodi
 
 Macht die Fernbedienung des **Iomega ScreenPlay TV Link DX** (Modell 35045, NEC-Protokoll,
